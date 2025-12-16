@@ -36,7 +36,6 @@ export default function RootLayout({
               <a href="/page3">Page 3</a>
               <a href="/page4">Page 4</a>
               <a href="/page5">Page 5</a>
-              <a href="/page6">Page 6</a>
             </nav>
             <div className="footer-credit">
               <span className="font-mono">Cool pages • built with Next</span>

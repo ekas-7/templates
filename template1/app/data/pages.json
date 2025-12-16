@@ -1,44 +1,37 @@
 [
   {
     "id": 1,
-    "title": "Welcome",
-    "text": "Welcome to page one — a short intro with a cool image.",
-    "image": "/next.svg",
-    "alt": "Next.js logo"
+    "title": "It always rained when Aarav noticed her",
+    "text": "It always rained when Aarav noticed her. \n\nThe bus stop was crowded, the sky heavy, and people impatient—but she stood still, holding a pale blue umbrella that didn’t quite match the storm. Her name, he would later learn, was Meera. \n\nEvery evening at 6:40 PM, they shared the same silence.",
+    "image": "https://res.cloudinary.com/dhbd74kyg/image/upload/v1765846266/memcard-flashcards/uukbadkmhqlwtk8iqj5x.jpg",
+    "alt": "Professional underwater photography, wide-angle lens, capturing a crowded, muted bus stop scene subt"
   },
   {
     "id": 2,
-    "title": "Deploy",
-    "text": "Page two talks about deploying fast and easy.",
-    "image": "/vercel.svg",
-    "alt": "Vercel logo"
+    "title": "Aarav never spoke",
+    "text": "Aarav never spoke. Meera never looked first. Yet something invisible passed between them—like a paused moment that neither wanted to break.\n\nOne day, the rain didn’t come.",
+    "image": "https://res.cloudinary.com/dhbd74kyg/image/upload/v1765846268/memcard-flashcards/m48f1dulzlbw21p5qs2f.jpg",
+    "alt": "Professional underwater photography, medium shot, focusing on the subtle tension and unspoken connec"
   },
   {
     "id": 3,
-    "title": "World",
-    "text": "Page three shows a globe — explore the world.",
-    "image": "/globe.svg",
-    "alt": "Globe"
+    "title": "The sky was clear, and Meera wasn’t at the stop",
+    "text": "The sky was clear, and Meera wasn’t at the stop. \n\nAarav felt something strange—an absence louder than noise. Days passed. No rain.",
+    "image": "https://res.cloudinary.com/dhbd74kyg/image/upload/v1765846270/memcard-flashcards/bnfyh96oh8l2aopl6nu7.jpg",
+    "alt": "Professional underwater photography, establishing shot of an empty, serene bus stop rendered with an"
   },
   {
     "id": 4,
-    "title": "Window",
-    "text": "Page four is a calm view through a window.",
-    "image": "/window.svg",
-    "alt": "Window"
+    "title": "No blue umbrella",
+    "text": "No blue umbrella. No her. \n\nThen, one evening, as the first drops touched the road, he saw her again—this time without the umbrella, hair soaked, smiling as if she had been waiting for the rain just like he had been waiting for her.\n\n“Looks like we both depend on the weather,” she said.",
+    "image": "https://res.cloudinary.com/dhbd74kyg/image/upload/v1765846272/memcard-flashcards/duijxegwz1pgpibejfon.jpg",
+    "alt": "Professional underwater photography, eye-level shot, capturing a pivotal moment of reunion at a bus "
   },
   {
     "id": 5,
-    "title": "Files",
-    "text": "Page five lists useful files and assets.",
-    "image": "/file.svg",
-    "alt": "File"
-  },
-  {
-    "id": 6,
-    "title": "Mountains",
-    "text": "Page six shows a scenic mountain photo (external).",
-    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=80&auto=format&fit=crop",
-    "alt": "Mountains"
+    "title": "Page 5",
+    "text": "",
+    "image": "https://res.cloudinary.com/dhbd74kyg/image/upload/v1765846275/memcard-flashcards/tudtelzfq69nqmu6rfti.jpg",
+    "alt": "Professional underwater photography, a close-up portrait of a young woman, Meera, with a serene expr"
   }
 ]
