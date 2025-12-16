@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome",
+    "text": "Welcome to page one — a short intro with a cool image.",
+    "image": "/next.svg",
+    "alt": "Next.js logo"
+  },
+  {
+    "id": 2,
+    "title": "Deploy",
+    "text": "Page two talks about deploying fast and easy.",
+    "image": "/vercel.svg",
+    "alt": "Vercel logo"
+  },
+  {
+    "id": 3,
+    "title": "World",
+    "text": "Page three shows a globe — explore the world.",
+    "image": "/globe.svg",
+    "alt": "Globe"
+  },
+  {
+    "id": 4,
+    "title": "Window",
+    "text": "Page four is a calm view through a window.",
+    "image": "/window.svg",
+    "alt": "Window"
+  },
+  {
+    "id": 5,
+    "title": "Files",
+    "text": "Page five lists useful files and assets.",
+    "image": "/file.svg",
+    "alt": "File"
+  },
+  {
+    "id": 6,
+    "title": "Mountains",
+    "text": "Page six shows a scenic mountain photo (external).",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=80&auto=format&fit=crop",
+    "alt": "Mountains"
+  }
+]
